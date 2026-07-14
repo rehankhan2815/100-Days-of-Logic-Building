@@ -1,4 +1,4 @@
-# Find average pf positive numbers in a list if any alse return None
+# Find average of positive numbers in a list if any alse return None
 
 def average(lst):
     count = 0
